@@ -11,10 +11,10 @@
 
 # General Machine Intelligence <br/> <small>The Arts and History of the Origins of Krukian Species</small>
 
-Author: Charles Zhang </br>
-Illustrated with Midjourney </br>
-Initial Draft Date: 2022-12-22 </br>
-First Publish Date: N/A </br>
+Author: Charles Zhang  
+Illustrated with Midjourney  
+Initial Draft Date: 2022-12-22  
+First Publish Date: N/A  
 Available on https://Nine.TotalImagine.com
 
 <!-- TODO: Replace everything with local files (or upload to Project Nine dedicated github repo), replace with 4K Jpg progressive. -->
