@@ -14,7 +14,7 @@
 Author: Charles Zhang  
 Illustrated with Midjourney  
 Initial Draft Date: 2022-12-22  
-First Publish Date: N/A  
+First Publish Date: 2022-12-26  
 Available on https://Nine.TotalImagine.com
 
 <!-- TODO: Replace everything with local files (or upload to Project Nine dedicated github repo), replace with 4K Jpg progressive. -->
