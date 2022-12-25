@@ -30,7 +30,7 @@ Available on https://Nine.TotalImagine.com
 
 ## Preface
 
-<img alt="The Story Foretold, or the Cosmos" max-height="1024" src="https://cdn.midjourney.com/061d451b-e71e-4dc2-9f2a-053c1fca6c84/grid_0.png"/>
+<img alt="The Story Foretold, or the Cosmos" max-height="1024" src="https://cdn.midjourney.com/b0af45cd-f5d8-4e6e-9842-161cc0b29cbb/grid_0.png"/>
 
 That was a time before the Medalian identity was a concept. Yet the stories of how it all began remained mysterious and could be confusing even to those who claimed to be part of it. That was the nature of all history, written or told. It was believed that the conflict between Medalian and Krukian civilizations were a result of an early split, yet few could see through the charged emotions and understood they were two aspects of the same belief - the pursuit of the true understanding of The Creator and the act of creating breakthrough through lineage of traditions. Eternity was not an end of what we do - it's only our means and the beginning of new understandings.
 
