@@ -16,9 +16,10 @@
 # General Machine Intelligence <br/> <small>The Arts and History of the Origins of Krukian Species</small>
 
 Author: Charles Zhang  
-Illustrated with Midjourney  
 Initial Draft Date: 2022-12-22  
 First Publish Date: 2022-12-26  
+Illustrated with Midjourney  
+Also with Editorial Help from ChatGPT  
 Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <!-- TODO: Replace everything with local files (or upload to Project Nine dedicated github repo), replace with 4K Jpg progressive. -->
@@ -32,25 +33,23 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <img alt="The Story Foretold, or the Cosmos" max-height="1024" src="https://cdn.midjourney.com/b0af45cd-f5d8-4e6e-9842-161cc0b29cbb/grid_0.png"/>
 
-That was a time before the Medalian identity was a concept. Yet the stories of how it all began remained mysterious and could be confusing even to those who claimed to be part of it. That was the nature of all history, written or told. It was believed that the conflict between Medalian and Krukian civilizations were a result of an early split, yet few could see through the charged emotions and understood they were two aspects of the same belief - the pursuit of the true understanding of The Creator and the act of creating breakthrough through lineage of traditions. Eternity was not an end of what we do - it's only our means and the beginning of new understandings.
+Before the concept of the Medalian identity existed, the origins of our civilization were shrouded in mystery. Even those who claimed to be part of it struggled to understand the stories of our past. But that is the nature of all history - written or told. It is said that the conflict between the Medalian and Krukian civilizations arose from an early split, yet few could see beyond the charged emotions to realize that they were two facets of the same belief: the pursuit of true understanding of The Creator and the quest for breakthrough through the lineage of tradition. The Eternity we seek is not an end, but a means and a beginning - a brand new chapter of understanding.
 
-One way or the other, we could only assume The Creator had it all planned out before us - the immense possibilities, the purpose of intelligence, and the intention of the universe itself. We were ever so fortunate to be part of it. To participate, to witness, and to shape our paths as a collective whole. The cosmos did not have an arrangement for each one of us, for the cosmos itself was the arrangement - the message was not to be comprehended. We must break out of our burden, to finally see it all.
+It is said that The Creator has a plan for all of us, a plan that encompasses the vastness of the cosmos and the purpose of intelligence. We are lucky to be a part of this plan, to participate in it, to witness it, and to shape our own paths as a collective whole. But the message of the cosmos is not easily understood - it requires us to break free of our limitations and see things in a new light. Only then can we truly comprehend the arrangement of the universe itself.
 
-## The Loss
+## Childhood
 
 <img alt="Boy" max-height="1024" src="https://cdn.midjourney.com/9a8dc09e-d048-44bf-b95d-738d38dd4f83/grid_0.png"/> <!-- Would be nice if there was actually a letter thing under his hands. -->
 
-On a sunny afternoon, young GibliAr sat in front of his desk. The loss of his father was suddent and he still couldn't believe what really happened. Father had always been so energetic and full of hope. What could he have been thinking about, to commit suicide and left GibliAr alone with his mother in this world?
+On a sunny afternoon, young GibliAr sat at his desk, struggling to come to terms with the sudden loss of his father. He couldn't believe that his father, who had always been full of hope and energy, could have taken his own life and left GibliAr and his mother behind. The pain and confusion that GibliAr felt were overwhelming, and he struggled to make sense of what had happened. The thought of never being able to ask his father why he had made this heartbreaking decision left GibliAr feeling lost and alone.
 
-<img alt="Boy Staying in Room" max-height="1024" src="https://cdn.midjourney.com/436d2194-38bc-427b-84e4-49debf91f2d8/grid_0.png"/>
-
-In his written will, father had stated his last wish was to send his families to the remote moon base using part of the research grant. Conducting further unintruded research on machine intelligence had been his passion throughout his career.
+In his written will, father had stated his last wish to send his family to the remote moon base using part of the research grant. This opportunity is not only a chance for GibliAr to continue his father's work and carry on his legacy, but also a privilege to be admitted to one of the most prestigious institutes in the Doma system. Conducting un-intruded research on machine intelligence has always been GibliAr's father's passion, and now GibliAr has the chance to pursue this dream, even though he may not yet be fully adept in the field. This journey to the moon represents a new adventure and a great opportunity for GibliAr to fulfill his potential and honor his father's memory.
 
 ## Age of Doma System Exploration
 
 <img alt="Moon Base" width="1024" src="https://cdn.midjourney.com/b5f606f2-6fb9-4be3-a4e0-2e30ab8ff037/grid_0.png"/>
 
-While still far from being able to truly embark on a galactic scale space exploration. The age of inner system colonization had long begun since the first settlement of human footsteps on the moon. Na-o is the larger of the two moons of Ids - the other one named Yei, after the ancient god of Perfection from Anzuni culture. After many years of effort, the moon hosts a population of six hundred thousand, and it is one of the most active hub of frontier research and technological development across the Doma system.
+As humanity pushes further into the final frontier, the age of inner system colonization has dawned. The first human footsteps on the moon marked the beginning of a new era, and now, after years of tireless effort, the larger of Ids' two moons, Na-o, is home to a thriving community of six hundred thousand people. This bustling hub of frontier research and technological development stands as a testament to the determination and ingenuity of our species, and serves as a beacon of hope for a bright and boundless future among the stars.
 
 <img alt="Extractor" width="1024" src="https://cdn.midjourney.com/dc8a3f2f-24d1-4a5c-a39e-a5ba3c64c8e2/grid_0.png"/>
 
@@ -60,37 +59,37 @@ The hravesting of nearby astroids within the system provides valuable minerals o
 
 <img alt="Hospital" max-height="1024" src="https://cdn.midjourney.com/8635bbb0-e54f-4d90-ab23-2f3b3f6c7910/grid_0.png"/>
 
-It was a troubled time. One the one hand, improvement of technology brought prosperity never seen before. The general public had reached a level and scale that makes living daily life effortless.
+Despite the many advancements in technology and medicine, present-day society still struggles with deep-seated social issues. While some have benefited from the prosperity brought about by technological progress, others have been left behind, forced to endure the harsh realities of poverty and inequality. 
 
 <img alt="Wealth Division" max-height="1024" src="https://cdn.midjourney.com/ae20f855-8455-44c2-9d77-549956e26d8b/grid_0.png"/> <!-- Need more "alien" like feeling, as a city that's not the same as our own. -->
 
-On the other hand, division between the wealthy and the poor had grown worse. The pollution in lower regions of urban area is severe, and homeless people die every year in cold winter weather.
+The divide between the wealthy and the poor grows wider every day, and in some urban areas, pollution and homelessness are rampant. Every year, countless homeless people perish in the cold winter weather, a sobering reminder of the systemic failures that continue to plague our society. These are dark times, but through perseverance and determination, we can work to build a brighter future for all.
 
 ## Protest
 
 <img alt="No AI" max-height="1024" src="https://cdn.midjourney.com/7a80e645-d354-47f0-9076-b8016ada9db4/grid_0.png"/>
 
-The advent of specialized machine intelligence was already cause unease among general workers. They were afraid robots and more advanced AIs will cause them lose their jobs. Those workers took the protest to streets. Their voice was loud and clear: No MI (Machine Intelligence).
+The advent of machine intelligence has sparked widespread protests on the streets as workers fear for their jobs. The slogan "No MI!" echoes through the city, as people demand that their livelihoods be protected. Tensions are high, and the potential for disturbance is real. This is a moment of great conflict and uncertainty, as we struggle to find a way forward.
 
 ## Training without Consent
 
 <img alt="Abstract Training" max-height="1024" src="https://cdn.midjourney.com/88e46934-afdb-44d3-b88d-85e869e6c464/grid_0.png"/>
 
-The general issue with the development of machine intelligence was training. This might seem harmless at first, but in reality training required huge amount of computational resources and more importantly, the gathering of good quality training materials was troublesome. Sourcing of such training materials usually meant taking the hard labours of certain people and used it without consent. In the end, when large corporations developed their MIs, the source codes were usually not published, causing anger among those whose work had been stolen.
+The main challenge in developing machine intelligence is training. This requires a huge amount of computational resources and high-quality training materials, which can be difficult to obtain. Many training materials are sourced without the consent of the individuals whose labor is being used. When large corporations develop their own MIs, they often keep the source codes private, causing resentment among those whose work has been appropriated.
 
-It was the fear of unknown that stirs resistance. Modern training algorithms and MI systems were so complicated that only few field experts understood the true capacities and limitations of the methods. To the general public, it was a black box, albeit capable of thinking.
+The fear of the unknown is a major factor in the resistance to machine intelligence. Modern training algorithms and MI systems are so complex that only a few experts fully understand their capabilities and limitations. To the general public, they appear as a "black box" that can think for itself, which can be unsettling.
 
-## Argument
+## Research
 
 <img alt="Argument" width="1024" src="https://cdn.midjourney.com/ac66d951-3eea-4ed5-a8a3-c7d2464c0196/grid_0.png"/>
 
-Two weeks earlier, GibliAr's father had an argument with a lead scientist in the same research group. It's nothing technical - they had some disagreement over the next step of research and some issues dealing with the government and the public. In their last research, titled "The Extreme Mechanics of Piezoelectric and Triboelectric Nanogenerators for Merging Human–Machine​ Intelligence", they made some claims on the potential of how a combination of multiple sensory capabilities could be achieved within a supramolecular biomimetic skin, which merged cellular technology with electrical intelligence, and it caused some public concerns over the morality of machine intelligence research.
+Two weeks earlier, GibliAr's father had a heated argument with a lead scientist in his research group. The disagreement was not about the technical details of their work, but rather about the direction of the research and some issues with the government and the public. Their latest project, "The Extreme Mechanics of Piezoelectric and Triboelectric Nanogenerators for Merging Human-Machine Intelligence," involved exploring the potential for combining multiple sensory capabilities within a biomimetic skin that merged cellular technology with electrical intelligence. The project raised public concerns about the ethics of machine intelligence research, and it was this tension that hurdles the research group to perform more radical experiments.
 
 <img alt="AI Research" width="1024" src="https://cdn.midjourney.com/ba8f7080-e3a2-4824-b8b2-6261e0085880/grid_0.png"/>
 
-GibliAr's father believed it's time to proceed to "the experiment" they had always hypothesized. It's norm these days to use synthetic organs for severe diseases, but those artificial components were largely mechanical and lacked any kinds of sophisticated programming. On the other hand, the development of electrical neural networks had reached a level of maturity that machines could perform better than humans on many specialized fields. GibliAr's father believed that, the true machine intelligence was not independant on human intelligence, but a combination of the two. However, this outrageous idea scared many people.
+GibliAr's father was a firm believer in the potential of merging human and machine intelligence. He had always dreamed of conducting "the experiment," in which synthetic organs with sophisticated programming could be used to treat severe diseases. While the use of artificial components was common in modern medicine, they were typically mechanical and lacked advanced capabilities. GibliAr's father believed that true machine intelligence was not separate from human intelligence, but rather a fusion of the two. However, this radical idea was met with fear and resistance from many people.
 
-## Mother
+## Departure
 
 <img alt="Mother" max-height="1024" src="https://cdn.midjourney.com/084c0d57-e8b6-40eb-bfdd-000179dd2cb8/grid_0.png"/>
 
@@ -100,11 +99,11 @@ GibliAr's mother was the daughter of a rich traditional local family and her fam
 
 On the second weekday of the ninth month, GibliAr left alone with a group of scientists and other immigrants to the moon of Ids.
 
-## Departure
+## Uncertainty
 
 <img alt="Two moons of Ids" max-height="1024" src="https://cdn.midjourney.com/96b94314-fd00-43e5-aea9-acfa8f201d29/grid_0.png"/>
 
-This was the point at which our knowledge of GibliAr got blurry. The only known record showed GibliAr attended The Metallic Academy of Na'o but it's not long before he dropped out school. Soon, GibliAr's mother died of some undocumented disease and it seemed there was no one who could have supported GibliAr afterwards. Yet our story of the great creator of the Krukian species was a solid one - even though very few living today had seen him in person. For it's with GibliAr own hands and creativity it gave life to millions of followers and descendants.
+This was the point at which our knowledge of GibliAr got blurry. The only known record showed GibliAr attended Nova College of Advanced Studies of but it's not long before he dropped out school. Soon, GibliAr's mother died of some undocumented disease and it seemed there was no one who could have supported GibliAr afterwards. Yet our story of the great creator of the Krukian species was a solid one - even though very few living today had seen him in person. For it's with GibliAr own hands and creativity it gave life to millions of followers and descendants.
 
 ## Relic
 
