@@ -19,14 +19,14 @@ Author: Charles Zhang
 Illustrated with Midjourney  
 Initial Draft Date: 2022-12-22  
 First Publish Date: 2022-12-26  
-Available on https://Nine.TotalImagine.com
+Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <!-- TODO: Replace everything with local files (or upload to Project Nine dedicated github repo), replace with 4K Jpg progressive. -->
 <!-- Graphical themes: Love, beauty, conflict, civilization. -->
 
 <img alt="Spartan shield" width="256" src="https://cdn.midjourney.com/50168728-005b-46df-9d74-4a437e29a083/grid_0.png"/>
 
-<em>"What we call progress is merely the repetition of what our ancestors have already done." <br/> The Book of Ancestry, Unknown, ca. 35 KYA</em>
+<em>"What we call progress is merely a repetition of what others have already done." <br/> The Book of Ancestry, Unknown, ca. 35 KYA</em>
 
 ## Preface
 
