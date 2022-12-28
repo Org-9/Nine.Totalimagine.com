@@ -26,7 +26,7 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <img alt="Spartan shield" width="256" src="https://cdn.midjourney.com/50168728-005b-46df-9d74-4a437e29a083/grid_0.png"/>
 
-<em>"What we call progress is merely a repetition of what others have already done." <br/> The Book of Ancestry, Unknown, ca. 35 KYA</em>
+<em>"The concept of progress is often nothing more than a repetition of the achievements of those who came before us." <br/> The Book of Ancestry, Unknown, ca. 35 KYA</em>
 
 ## Preface
 
