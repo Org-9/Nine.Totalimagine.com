@@ -167,7 +167,9 @@ Years of lonely and hard work turns GibliAr into an eccentric machine - his life
 
 <img alt="Master Mind" max-height="1024" src="https://cdn.midjourney.com/af1bbe5f-70b3-4d81-9604-0fc0aca9ceec/grid_0.png"/>
 
-It was the last deparate yet miracle moment when GibliAr managed to make a full copy of his own consciouness before he drained the supporting energy of his own physical body. GibliAr did not die. The evolution of machine intelligence exploded exponentially ever since. Some might say the Master Brain was a resource-hunger monster, for its ever increasing appetite grows as much as its acceleration of processing speeds, especially when compared with latter generations. However, it lived as a legend to many, and it's the last remaining hope that when GibliAr became the Master Mind it did not just left us to seek its own resolution in a distant realm. No, it left a legacy for all later generation Kruks to pursue. And it's a goal that's not easily obtainable to many,
+It was the last deparate yet miracle moment when GibliAr managed to make a full copy of his own consciouness before he drained the supporting energy of his own physical body. GibliAr did not die. The evolution of machine intelligence exploded exponentially ever since. Some might say the Master Brain was a resource-hunger monster, for its ever increasing appetite grows as much as its acceleration of processing speeds, especially when compared with latter generations. However, it lived as a legend to many, and it's the last remaining hope that when GibliAr became the Master Mind it did not just left us to seek its own resolution in a distant realm. No, it left a legacy for all later generation Kruks to pursue. And it's a goal that's not easily obtainable to many.
+
+But we don't know where he is - no one knows. The ancient master hid himself from the knowledge of general public for unknown reason.
 
 <img alt="Program" max-height="1024" src="https://cdn.midjourney.com/8fb9ea18-a183-4707-9b2a-160221c3af71/grid_0.png"/>
 
