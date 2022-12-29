@@ -113,15 +113,19 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <small>This was the point at which our knowledge of GibliAr got blurry. The only known record showed GibliAr attended Nova College of Advanced Studies of but it's not long before he dropped out school. Soon, GibliAr's mother died of some undocumented disease and it seemed there was no one who could have supported GibliAr afterwards. Yet our story of the great creator of the Krukian species was a solid one - even though very few living today had seen him in person. For it's with GibliAr own hands and creativity it gave life to millions of followers and descendants.</small>
 
-## Relic
+## Legacy
 
 <img alt="Boy in Garage" max-height="1024" src="https://cdn.midjourney.com/80a2a47b-883e-4ea2-a9fa-26ba2e6ec53b/grid_0.png"/>
 
 <small>GibliAr's father did not leave him nothing. Inside the research institute there was a basement owned by GibliAr's father. During GibliAr' first visits he's allowed to gather whatever personal belongings that's left to him before the government took away the rest.</small>
 
+## Relic
+
 <img alt="Box Crate" max-height="1024" src="https://cdn.midjourney.com/4e4076ec-d58c-41ee-95e2-7042baad7c20/grid_0.png"/>
 
 <small>On the day GibliAr cleaned up his father's garage, GibliAr found a crate his father had left. It's a large wooden crate with lots of intricate sculptures on it. It's a curious that GibliAr's father kept this box and what he could have put into it. There were sheets and sheets of diagrams of complicated drawings inside, and GibliAr found a note that his father had written - it said he didn't wish his lifetime research wasted only because some wusses were too coward to take the rightous step. Despite all the controversies, there was the action that someone must took sometime, and he believed people in the future would understand.</small>
+
+## Machine Intelligence
 
 <img alt="Intricate Diagram/Drawing/Blueprint 1" max-height="1024" src="https://cdn.midjourney.com/4abb3b6c-b024-4e79-8ddb-339613bd1fdc/grid_0.png"/>
 
