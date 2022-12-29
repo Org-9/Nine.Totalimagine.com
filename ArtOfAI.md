@@ -13,7 +13,7 @@
     }
 </style>
 
-# General Machine Intelligence <br/> <small>The Arts and History of the Origins of Krukian Species</small>
+# General Machine Intelligence <br/> <em>The Arts and History of the Origins of Krukian Species</em>
 
 Author: Charles Zhang  
 Initial Draft Date: 2022-12-22  
