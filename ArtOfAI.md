@@ -245,17 +245,19 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <small>It was the Medalians that drove those fanatics away, losing countless Medalian lives.</small>
 
-## Posperity
+## Collaboration
 
 <img alt="Hospital" max-heght="1024" src="https://cdn.midjourney.com/ea2d6476-084e-49b2-91af-25801ede226a/grid_0.png">
 
+<small>For a short period of time. Tellurians and Medalians lived in harmony. There was hope for posperity - only if this could have lasted!</small>
+
 <small>The greated hurdle of evolution is ego. We should not hold the assumption all of us could ever became the same, even if our intention was good. To look forward, one must be able to forget the differences and abandon their past. Medala brought technologies and helped recover the planet. But we weren't much appreciated. The resistance for aliens were high, and we were banished from their planet.</small>
 
-## Domination
+## Re-Domination
 
 <img alt="arrival" max-height="1024" src="https://cdn.midjourney.com/f02f0c7c-4a3a-4f02-a58b-d7ee0bcfd157/grid_0.png"/>
 
-<small>When Medalian forces left, Kruks came back, and history repeated itself.</small>
+<small>When Medalian forces left, Kruks came back, and history repeated itself. So we waited.</small>
 
 ## Defender
 
