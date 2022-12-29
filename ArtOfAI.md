@@ -63,6 +63,8 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <small>Despite the many advancements in technology and medicine, present-day society still struggles with deep-seated social issues. While some have benefited from the prosperity brought about by technological progress, others have been left behind, forced to endure the harsh realities of poverty and inequality. </small>
 
+## Poverty
+
 <img alt="Wealth Division" max-height="1024" src="https://cdn.midjourney.com/ae20f855-8455-44c2-9d77-549956e26d8b/grid_0.png"/> <!-- Need more "alien" like feeling, as a city that's not the same as our own. -->
 
 <small>The divide between the wealthy and the poor grows wider every day, and in some urban areas, pollution and homelessness are rampant. Every year, countless homeless people perish in the cold winter weather, a sobering reminder of the systemic failures that continue to plague our society. These are dark times, but through perseverance and determination, we can work to build a brighter future for all.</small>
@@ -259,7 +261,7 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <small>Even before GibliAr started the first generation of Kruks, there was the great Evolutionary War.</small>
 
-## Poverty
+## Lower Life
 
 <img alt="Low-end robots in market" max-height="1024" src="https://cdn.midjourney.com/27f81153-68fa-4e4d-80c7-743558f32fa9/grid_0.png"/>
 
