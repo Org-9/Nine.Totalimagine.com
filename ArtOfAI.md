@@ -131,23 +131,31 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <small>There was no doubt machines nowadays could think as much as ordinary people did: they feel, they act, they recreate, and they evolve. But there was yet still a missing link - a link that could fully resolves the war-inclining and destructive behaviors of existing machine intelligence networks whenever a machine became sentient. Somehing that nudged humans to be humans.</small>
 
-## The First Prototype
+## The First Experiment
 
 <img alt="Spider AI" max-height="1024" src="https://cdn.midjourney.com/01dbc9ea-40c8-4622-88d2-ac1b7dae445e/grid_0.png"/>
 
 <small>When GibliAr opened the box and finally understood the contents inside. He was shocked by his discovery. It turned out, the spider shaped robot inside was the first general-purpose machine intelligence prototype - if it would have been functional! The hypothesis was that the missing link of neuron connection must be achieved through real biological systems - in other words, it's not possible to approximate the most delicate thoughts using simply linearly connected digital neurons. It's GibliAr's father's belief that with enough accuracy, by scanning the entire biological brain, it was possible to transfer all the intricacies of human consciousness into purely electrified networks. The two supporting technologies of this were: 1) The requirement for ever-so-advanced MRI scanning techniques, 2) A medium for large-density neuron connection parameters storage. And of course, a method of processing that could make use of such input data. Unfortunately, due to the lack of the maintaining and the very prototypical nature, this original prototype was no longer functional.</small>
 
+## The Scanner
+
 <img alt="Portable MRI Design" max-height="1024" src="https://cdn.midjourney.com/b97194f5-7e61-4d01-ae6b-038b85c2fccb/grid_0.png"/>
 
 <small>The theory behind the new type of scanner was nothing new. The fundamental principles were just like that of a typical Magnetic Resonance Imaging hardware - by utilizing carefully controlled strong magnetic fields, it's possible to provide very detailed neuroimaging. The old device that's used to make the prototypical spider was not fonud, but the diagrams recorded key ideas. It's worth noting that the type that's shown in the diagram was the very early portable design that required less resources to build. Later generations of similar technologies were available at abundance.</small>
+
+## The Storage
 
 <img alt="Storage" max-height="1024" src="https://cdn.midjourney.com/16f4b75d-7241-440d-ab4a-1f4aaf72a7c2/grid_0.png"/>
 
 <small>The storage issue was a difficult one - real biological brains contains many trillions of parameters and could not be stored inside the most advanced solid state device. For this, a new type of biologically inspired liquified storage device was proposed to handle the demand for extremely large storage needs yet also extremely versatile and constantly evolving computational needs.</small>
 
+## The Prototype
+
 <img alt="More robust construction guide" max-height="1024" src="https://cdn.midjourney.com/85906099-d41b-4875-991d-9fb878840c67/grid_0.png"/>
 
 <small>GibliAr's father's research didn't just stop there. There were even sketches on the next steps - there were diagrams showing how a real human-scale machine intelligence could be build. However, before they could go there, there was one large technological hurdle to tackle - the efficiency of the simulating agent must be improved and computational circuits minimized before it can effectively a host brain. In the end, it's not GibliAr who would complete those constructions - because of the limits of the first generation of general purpose machine intelligence. But those were the original designs that provided a clear path for GibliAr to conduct his own experiments.</small>
+
+## Tradition
 
 <img alt="Spider Variation" max-height="1024" src="https://cdn.midjourney.com/c5d1968a-40e9-4fa5-a80c-bcae48e52e13/grid_0.png"/>
 
@@ -178,6 +186,8 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 ## The Lonely Years
 
 <img alt="Old Man Contemplating" max-height="1024" src="https://cdn.midjourney.com/a2106386-c555-4476-a83b-8153eba1266a/grid_0.png"/>
+
+<small>Ironically, dedication to MI researches isolated GibliAr from others, allowing him to become less human.</small>
 
 ## The Cybrain 机脑
 
