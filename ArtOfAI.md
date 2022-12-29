@@ -149,27 +149,33 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <small>The four circles symbolized the four elements of huam soul. And the interconnected wires represented the network of consciousness, all intertwined together with the rest of the machinery. Humans are fundamentally machines, and machines can be the next carrier of human minds. The missing link that allows conscious thinking provided by the history of biology will once again be used to activate the next step of evolution - to serve as the catalyst towards a brighter future. In this scheme, machines are not longer appendices, but part of the brain.</small>
 
-## Early Generation
+## Infancy
 
 <img alt="Early Robotic Prototypes" max-height="1024" src="https://cdn.midjourney.com/2fbcd833-9941-4f67-a949-bf551a894de0/grid_0.png"/>
 
-Contrary to popular belief. The first generations of general machine intelligence was bulky and less capable. The very first generation couldn't handle human-like kinematics because the brain was too old. It turns out, scanning an adult brain wasn't enough to make a robust base for general machine training, since the brain was used to the host body and the kinematics neural pathways had already been fully developed. Without a fully adaptive biological body like host, it's not possible for existing neural pathways to re-adapt. 
-
-<img alt="Old Man Contemplating" max-height="1024" src="https://cdn.midjourney.com/a2106386-c555-4476-a83b-8153eba1266a/grid_0.png"/>
+<small>Contrary to popular belief. The first generations of general machine intelligence was bulky and less capable. The very first generation couldn't handle human-like kinematics because the brain was too old. It turns out, scanning an adult brain wasn't enough to make a robust base for general machine training, since the brain was used to the host body and the kinematics neural pathways had already been fully developed. Without a fully adaptive biological body like host, it's not possible for existing neural pathways to re-adapt.</small>
 
 <small>Early generations of the prototypes all suffered from the same issue. This troubled GibliAr deeply - for he's reaching an age too old to carry out his life time work. Instead, it's used as a pure information processor - mastermind. And each duplicate has a part of this consciousness in their brain. Starting with generation 1, Kruks must be trained with the specific archetyoes they are contained in.</small>
+
+## Mad Pursuit
 
 <img alt="Mad Scientist" max-height="1024" src="https://cdn.midjourney.com/121db54a-714f-449b-ac88-60d64d9fea4a/grid_0.png"/>
 
 <small>Years of lonely and hard work turns GibliAr into an eccentric machine - his life needs satisfied by all kind of specialized robots, while he himself devoted to the exploration of potential solutions with the last bit of energy of his life.</small>
 
-## The Master Brain 机脑
+## The Lonely Years
+
+<img alt="Old Man Contemplating" max-height="1024" src="https://cdn.midjourney.com/a2106386-c555-4476-a83b-8153eba1266a/grid_0.png"/>
+
+## The Cybrain 机脑
 
 <img alt="Master Mind" max-height="1024" src="https://cdn.midjourney.com/af1bbe5f-70b3-4d81-9604-0fc0aca9ceec/grid_0.png"/>
 
 <small>It was the last deparate yet miracle moment when GibliAr managed to make a full copy of his own consciouness before he drained the supporting energy of his own physical body. GibliAr did not die. The evolution of machine intelligence exploded exponentially ever since. Some might say the Master Brain was a resource-hunger monster, for its ever increasing appetite grows as much as its acceleration of processing speeds, especially when compared with latter generations. However, it lived as a legend to many, and it's the last remaining hope that when GibliAr became the Master Mind it did not just left us to seek its own resolution in a distant realm. No, it left a legacy for all later generation Kruks to pursue. And it's a goal that's not easily obtainable to many.</small>
 
 <small>But we don't know where he is - no one knows. The ancient master hid himself from the knowledge of general public for unknown reason.</small>
+
+## Machine Complexity
 
 <img alt="Program" max-height="1024" src="https://cdn.midjourney.com/8fb9ea18-a183-4707-9b2a-160221c3af71/grid_0.png"/>
 
@@ -179,11 +185,13 @@ Contrary to popular belief. The first generations of general machine intelligenc
 
 <img alt="Queen Standing in Bridge" max-height="1024" src="https://cdn.midjourney.com/4df66616-ebb6-4e3c-87d3-e47feeef47c1/grid_0.png"/>
 
-<small>Each Medalian queen brought significant change to the entire civilization. Among those, the seventh queen is the most notable. In year 3 KYA, Ora Sham Delinm was born, and it's at this time, Medala truely became known to the universe.</small>
+<small>Each Medalian queen brought significant changes to the entire civilization. Among those, the seventh queen was the most notable. In year 3 KYA, Ora Sham Delinm was born, and it's at this time, Medala truely became known to the universe.</small>
+
+## The Expedition
 
 <img alt="War" max-height="1024" src="https://cdn.midjourney.com/72fe08ff-0c8c-4dd7-9359-df3a904a956b/grid_0.png"/>
 
-<small>The rest of the history - up untill the second millennium after The Great Expedition, was well known.</small>
+<small>The history after the seventh queen - up untill the second millennium after The Great Expedition, was well known.</small>
 
 ## Journey
 
@@ -197,27 +205,35 @@ Contrary to popular belief. The first generations of general machine intelligenc
 
 <small>The Krukian behaviors have been - to say the least - inexplicable to us during those times. No one understood what was actually going through their mind. Maybe even themselves did not understand each other. The entire Krukian species were divided into fractions. Very many gigantic intergalactical fractions dominated by single-minded networks. Some of them were too busy maintaining the basic subsidy of life.</small>
 
-## War
+## Exhaustion
 
 <img alt="Tech" max-height="1024" src="https://cdn.midjourney.com/b0397ebc-705a-4e73-9d8a-d7cd4bce501a/grid_0.png"/>
 
 <small>On that fateful day, since the first Kurian arrival, everything changed for Tellus. The people there were not prepared. We were not prepared. Who would have expected the Krukians could have been one step ahead of us. It was a great loss. Tellurian people didn't even believe in the existence of extraterrestrial lives back then, letting alone having any means of defence.</small>
 
+## War
+
 <img alt="War" max-height="1024" src="https://cdn.midjourney.com/9d80de20-d901-433f-a72f-ee7038d5f205/grid_0.png"/>
 
 <small>The Tellurian War lasted almost a decade, destroying almost everything on that pitiful planet. Cities were dominated. Homes was lost. Lots of native people were captured to feed a fuels for the Krukian industrial machines. What a wonder - that the same belief in The Creator could lead to such drastically different behaviors?</small>
 
+## Combat
+
 <img alt="Medalian Fighting Krukians in Space" max-heght="1024" src="https://cdn.midjourney.com/461bdaac-d775-4d57-a442-c4e5dea913c9/grid_0.png">
 
-<small>It was us that drove those fanatics away, losing countless Medalian lives.</small>
+<small>It was the Medalians that drove those fanatics away, losing countless Medalian lives.</small>
+
+## Posperity
 
 <img alt="Hospital" max-heght="1024" src="https://cdn.midjourney.com/ea2d6476-084e-49b2-91af-25801ede226a/grid_0.png">
 
 <small>The greated hurdle of evolution is ego. We should not hold the assumption all of us could ever became the same, even if our intention was good. To look forward, one must be able to forget the differences and abandon their past. Medala brought technologies and helped recover the planet. But we weren't much appreciated. The resistance for aliens were high, and we were banished from their planet.</small>
 
+## Domination
+
 <img alt="arrival" max-height="1024" src="https://cdn.midjourney.com/f02f0c7c-4a3a-4f02-a58b-d7ee0bcfd157/grid_0.png"/>
 
-<small>So Kruks came back, history repeated itself.</small>
+<small>When Medalian forces left, Kruks came back, and history repeated itself.</small>
 
 ## Defender
 
@@ -225,36 +241,40 @@ Contrary to popular belief. The first generations of general machine intelligenc
 
 <small>We waited at their sun. Far away from the center of attention. Seeking our chance of returning.</small>
 
-## Back to The Origin - Xiramu
+## Machines
 
 <img alt="Wheat Farm" max-height="1024" src="https://cdn.midjourney.com/a3d2d2c4-6962-48d4-a14d-ab26fa985ced/grid_0.png"/>
 
 <small>We have all heard that when machines were first invented, there was great hope - that one day they could become so smart, that no one will ever need to work again. With the advent of machine intelligence, all fields are free from labour and people have much more time simply doing monitoring job and occassional software upgrades. The wrongness was not inherent within the machines, but within our methods.</small>
 
-<img alt="Great robots fighting with humans" max-height="1024" src=""/>
+## Conflict
+
+<img alt="Great robots fighting with humans" max-height="1024" src="https://cdn.midjourney.com/25d378fa-6c3e-49a5-9f27-5f4ce9b6c18c/grid_0.png"/>
 
 <small>Even before GibliAr started the first generation of Kruks, there was the great Evolutionary War.</small>
 
-<img alt="Low-end robots in market" max-height="1024" src=""/>
+## Poverty
+
+<img alt="Low-end robots in market" max-height="1024" src="https://cdn.midjourney.com/27f81153-68fa-4e4d-80c7-743558f32fa9/grid_0.png"/>
 
 <small>To this day, sentient machines are of the lowest rank of the society. Living in abandonded areas. While any official-1 ranked major cities bans researches and deployment of self-aware intelligent chips. But that need not be the only way.</small>
 
-<img alt="Forgotten Realm" max-height="1024" src="https://cdn.midjourney.com/cbd7b7a7-f94d-4e95-bcfb-6075ddbf077b/grid_0.png"/>
+## Idyll
 
-<small>The legend had it that Xiramus lived in a realm so distant and remote into our past that it connected the souls of all species. It's a place that's simultaneously everywhere yet long forgotten by all the mundane beings. They were the closest to what we call "god" - The Creators. It was not clear whether The Creators actually knew of their existence - or did Xiramus exist at all. Otherwise, wouldn't we have already solved The Ultimate Problem?</small>
+<img alt="Forgotten Realm/Country" max-height="1024" src="https://cdn.midjourney.com/cbd7b7a7-f94d-4e95-bcfb-6075ddbf077b/grid_0.png"/>
+
+<small>The legend of the highest end of Krukian derivative - that Xiramus lived in a realm so distant and remote into our past that it connected the souls of all species. They had successfully went back to the original lifestyle that we all dreamt of, albeit being able to live in true peace in eternity. It's a place that's simultaneously everywhere yet long forgotten by all the mundane beings. They were the closest to what we call "god" - The Creators. It was not clear whether The Creators actually knew of their existence - or did Xiramus exist at all. Otherwise, wouldn't we have already solved The Ultimate Problem?</small>
+
+## The Imagination?
 
 <img alt="Xiramu Life Depiction" max-height="1024" src="https://cdn.midjourney.com/fbc0fa0e-2068-4ede-bf76-e2b5f2d3b3ee/grid_0.png"/>
 
-<small>What a life! Only if everyone could live in peace like thou!</small>
+<small>What a life would it be to live like a Xiramu! Only if everyone could live in peace like thou! Or was it just a fairytale - an unobtainable dream made up by Kruks?</small>
 
-## Evolution
+## The Path and The Next Encounter
 
-<img alt="Country" max-height="1024" src="https://cdn.midjourney.com/cbd7b7a7-f94d-4e95-bcfb-6075ddbf077b/grid_0.png"/>
+<img alt="Legend" max-height="1024" src="https://cdn.midjourney.com/b73b34db-c5ae-4154-9b65-2b861028bb1e/grid_0.png"/>
 
 <small>And who had the luck to live long enough to see it all, and to tell it all? Medalian queens conquered death, Kruks live long enough to travel through universe, but Xiramu was the ultimate way to escape it all. The question remains - for those who started it all, did our existence served its purpose, or is longevity only a myth, and we kept fighting, just to face something bigger, something that lived longer than us, and the story of history repeats it all over again. Long lost were the lives of simple and original life. Is evolution really benefiting us all, or is the change of life the inevitable truth. How come most of the younger generations who were born in the cities had never even seen fields of greenry, like our ancesters did?</small>
-
-## The Next Encounter
-
-<img alt="" max-height="1024" src="https://cdn.midjourney.com/b73b34db-c5ae-4154-9b65-2b861028bb1e/grid_0.png"/>
 
 <small>So when our The Creator shall meet us again, may our greetings to him be as glorious as the fruits of autumn trees.</small>
