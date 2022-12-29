@@ -29,6 +29,9 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <em>"The concept of progress is often nothing more than a repetition of the achievements of those who came before us." <br/> The Book of Ancestry, Unknown, ca. 35 KYA</em>
 
+<button onclick="showElements()">Show Descriptions</button>
+<button onclick="hideElements()">Hide Descriptions</button>
+
 ## Preface
 
 <img alt="The Story Foretold, or the Cosmos" max-height="1024" src="https://cdn.midjourney.com/b0af45cd-f5d8-4e6e-9842-161cc0b29cbb/grid_0.png"/>
@@ -302,3 +305,19 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 <small>And who had the luck to live long enough to see it all, and to tell it all? Medalian queens conquered death, Kruks live long enough to travel through universe, but Xiramu was the ultimate way to escape it all. The question remains - for those who started it all, did our existence served its purpose, or is longevity only a myth, and we kept fighting, just to face something bigger, something that lived longer than us, and the story of history repeats it all over again. Long lost were the lives of simple and original life. Is evolution really benefiting us all, or is the change of life the inevitable truth. How come most of the younger generations who were born in the cities had never even seen fields of greenry, like our ancesters did?</small>
 
 <small>So when our The Creator shall meet us again, may our greetings to him be as glorious as the fruits of autumn trees.</small>
+
+<script>
+    function hideElements(){
+        var arrOfPtags = document.getElementsByTagName("small");
+        for (var i = 0;i < arrOfPtags.length; i++){
+            arrOfPtags[i].style.display = "none";
+        }
+    }
+    function showElements(){
+        var arrOfPtags = document.getElementsByTagName("small");
+        for (var i = 0;i < arrOfPtags.length; i++){
+            arrOfPtags[i].style.display = "block";
+        }
+    }
+    hideElements();
+</script>
