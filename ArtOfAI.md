@@ -91,11 +91,13 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <small>GibliAr's father was a firm believer in the potential of merging human and machine intelligence. He had always dreamed of conducting "the experiment," in which synthetic organs with sophisticated programming could be used to treat severe diseases. While the use of artificial components was common in modern medicine, they were typically mechanical and lacked advanced capabilities. GibliAr's father believed that true machine intelligence was not separate from human intelligence, but rather a fusion of the two. However, this radical idea was met with fear and resistance from many people.</small>
 
-## Departure
+## Family
 
 <img alt="Mother" max-height="1024" src="https://cdn.midjourney.com/084c0d57-e8b6-40eb-bfdd-000179dd2cb8/grid_0.png"/>
 
 <small>GibliAr's mother was the daughter of a rich traditional local family and her family strongly oppossesed their grandson to go to the moon at this age. Mother made up her own mind and send GibliAr to the ship towards the parting port.</small>
+
+## Departure
 
 <img alt="Parting" max-height="1024" src="https://cdn.midjourney.com/dacde71c-2acb-4fda-a749-90a2d609877e/grid_0.png"/>
 
