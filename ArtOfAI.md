@@ -51,6 +51,8 @@ Available on [https://Nine.TotalImagine.com](https://Nine.TotalImagine.com)
 
 <small>As humanity pushes further into the final frontier, the age of inner system colonization has dawned. The first human footsteps on the moon marked the beginning of a new era, and now, after years of tireless effort, the larger of Ids' two moons, Na-o, is home to a thriving community of six hundred thousand people. This bustling hub of frontier research and technological development stands as a testament to the determination and ingenuity of our species, and serves as a beacon of hope for a bright and boundless future among the stars.</small>
 
+## Astroids Mining
+
 <img alt="Extractor" width="1024" src="https://cdn.midjourney.com/dc8a3f2f-24d1-4a5c-a39e-a5ba3c64c8e2/grid_0.png"/>
 
 <small>The hravesting of nearby astroids within the system provides valuable minerals otherwise not easily obtainable on Ids. With such abundance of resources we were ready to embark on longer journeys. Yet despite all the effort, the progress in science and advanced physics was slow. For one, no one had ever comprehended the governing law of the limiting speed of the universe - without that, we couldn't go much further.</small>
